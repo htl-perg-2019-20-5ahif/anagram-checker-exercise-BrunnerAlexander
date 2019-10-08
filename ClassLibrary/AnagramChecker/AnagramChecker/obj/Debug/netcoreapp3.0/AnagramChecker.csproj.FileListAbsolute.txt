@@ -1,0 +1,8 @@
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.deps.json
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.dll
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\bin\Debug\netcoreapp3.0\AnagramChecker.pdb
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.csprojAssemblyReference.cache
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.AssemblyInfoInputs.cache
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.AssemblyInfo.cs
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.dll
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AE_CSharp\5. Jahrgang\AnagramChecker\anagram-checker-exercise-BrunnerAlexander\ClassLibrary\AnagramChecker\AnagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.pdb
